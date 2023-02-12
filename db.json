@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "name": "Salário",
+      "amount": 3200,
+      "id": 3
+    },
+    {
+      "name": "Conta de água",
+      "amount": -60,
+      "id": 4
+    },
+    {
+      "name": "Conta de luz",
+      "amount": -150,
+      "id": 5
+    },
+    {
+      "name": "Pizza",
+      "amount": -123,
+      "id": 6
+    },
+    {
+      "name": "Freela 2",
+      "amount": 1200,
+      "id": 8
+    },
+    {
+      "name": "Pizza ",
+      "amount": -60,
+      "id": 9
+    },
+    {
+      "name": "Frelancer",
+      "amount": 600,
+      "id": 10
+    }
+  ]
+}
